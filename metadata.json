@@ -1,0 +1,6 @@
+{
+  "name": "CIFAR-10 Image Classification Playground",
+  "description": "An interactive playground to train, compare, and test TensorFlow and PyTorch CNN architectures on the CIFAR-10 dataset, featuring real-time training simulation, layer activation maps, and deployment diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
