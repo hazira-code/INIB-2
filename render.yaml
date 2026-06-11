@@ -1,0 +1,10 @@
+# Render Blueprint Specification for Native Python Deployment
+services:
+  - type: web
+    name: cifar10-classification-suite
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PORT
+        value: 3000
