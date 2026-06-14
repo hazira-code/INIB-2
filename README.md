@@ -1,17 +1,5 @@
 # 🚀 INIB2 - CIFAR-10 Image Classification Dashboard
 
-<div align="center">
-
-### AI-Powered Image Classification Platform
-
-A lightweight, production-ready CIFAR-10 image classification web application optimized for Render Free Tier deployment without Docker.
-
-🌐 Live Demo: https://inib-2.onrender.com/
-
-</div>
-
----
-
 ## 📌 Overview
 
 INIB2 is an interactive machine learning dashboard that demonstrates image classification concepts using the CIFAR-10 dataset. The platform provides an educational and practical environment where users can explore CNN architectures, visualize training behavior, upload images, and understand how deep learning models classify objects.
